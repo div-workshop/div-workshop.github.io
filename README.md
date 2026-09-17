@@ -1,1 +1,1 @@
-# div-workshop.github.io
+# Data Interaction and Visualization Workshop website
