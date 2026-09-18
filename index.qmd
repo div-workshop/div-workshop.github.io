@@ -1,0 +1,66 @@
+---
+title: "Data Interaction and Visualization 2027"
+subtitle: |
+  The 1^st^ Annual Chicagoland Data Interaction and Visualization Symposium
+
+  Jan 4, 2027 at UIC
+---
+
+DIV 2027 is a symposium for academic and industry researchers in the greater Chicago area working in fields related to human-data interaction and/or the use of data representations to aid processing, understanding, and communicating data. Topics of interest include, but are not limited to:
+
+- Data visualization
+- Data storytelling and communication
+- Data sonification
+- Data accessibility
+- Theories of data representation
+- Scientific visualization
+- Statistical graphics
+- Tools for scientific computing
+- Interfaces for data exploration and communication
+- Artifical intelligence for data analysis systems
+
+The goal of the workshop is to promote connection and collaboration amongst the local and regional community, and especially to give early researchers (including graduate students) a venue to build academic networks and get feedback on their work.
+
+## Registration
+
+Registration information is **TBA**.
+
+## Posters
+
+**All attendees** -- including faculty, researchers, postdocs, and students -- are invited to submit a poster for presentation at the workshop.
+
+**Students are especially encouraged to submit**. We aim to provide a space for well-considered, thoughtful feedback on work of all stages, but especially unfinished or in-progress work that can most benefit from feedback and discussion.
+
+### Submission
+
+Submit a poster abstract at **[submission form TBA]** by **[date TBA]**.
+
+Poster information:
+
+- **Abstract length:** ≤ 250 words.
+- **Suggested poster size:** 24 in × 36 in.
+- **Lightning talk:** Poster presenters will give a **1 minute** lightning talk before the poster session to advertise their poster.
+- **Work stage:** Posters may cover already-published work or work in progress.
+- **Archivalness:** Posters and abstracts are non-archival.
+
+## Location and schedule
+
+DIV 2027 will be hosted at UIC's **[building info TBA]** on **Jan 4, 2027**.
+
+The *tentative* schedule is as follows:
+
+| Time | Activity |
+|-----:|:------------------------------------------------|
+| 8:30 | *Light breakfast & social* |
+| 9:15 | **Intro and vision building** <br> From the organizers |
+| 9:30 | **“Moonshot” talks** <br> 15-minute talk + 10-minute Q&A × 3 speakers <br> Topics and speakers TBA |
+| 10:45 | *Break* |
+| 11:00 | **Lightning talks** <br> 1-minute talks advertising posters |
+| 11:30 | **Poster session** |
+| 12:30 | *Lunch* |
+| 1:30 | **Panel** <br> Topic and panelists TBA |
+| 2:30 | *Break* |
+| 2:45 | **Unconference idea selection** <br> Any attendee can propose a topic throughout the day, then all attendees select topics and split into groups by interest. |
+| 3:00 | **Unconference mini-workshops** <br> As selected in the previous session. |
+| 4:00 | **Reflections & ideas for next year** |
+| 5:00 | *Social event nearby* |

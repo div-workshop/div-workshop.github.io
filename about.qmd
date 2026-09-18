@@ -1,0 +1,22 @@
+---
+title: "About"
+---
+
+## History
+
+The idea for DIV was born from the recognition that Chicagoland is home to a wealth of researchers in human--data interaction and data visualization and that we all benefit from more regular connection across institutions.
+
+In 2025 a small gathering of visualization faculty and PhD students from Northwestern, U Chicago, and DePaul held a one-day retreat hosted by Northwestern's MU Collective. We had so much fun connecting that we did it again in 2026, adding in folks from UIC and Argonne, hosted at U Chicago's Data Science Institute.
+
+At the 2026 retreat we recognized the need for more opportunities like this: venues where students, faculty, and researchers can talk about ongoing work and get honest feedback. Venues where we can discuss hard topics, like where the field is, where it's going, and where it *should* be going. But also, importantly, venues where we can connect socially to local folks and build longer-lasting collaborations and friendships.
+
+For 2027, we're expanding the topic from visualization to human--data interaction. We hope folks will join us and have fun making new connections and building new collaborations!
+
+## Organizers
+
+- [Alex Kale](https://people.cs.uchicago.edu/~kalea/), University of Chicago (*Workshop Chair*)
+- [Matthew Kay](https://www.mjskay.com/), Northwestern University
+- Saeed Boorboor, University of Illinois at Chicago
+- Michael Papka, Argonne National Laboratory
+- Victor Mateevitsi, Argonne National Laboratory
+- Joseph Insley, Argonne National Laboratory

@@ -1,0 +1,4 @@
+color:
+  foreground: "#333333"  # Global body text color
+  palette:
+    primary: "#1c84e5"
