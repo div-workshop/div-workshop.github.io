@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The idea for DIV was born from the recognition that Chicagoland is home to a wealth of researchers in human–data interaction and data visualization and that we all benefit from more regular connection across institutions.\nIn 2025 a small gathering of visualization faculty and PhD students from Northwestern, U Chicago, and DePaul held a one-day retreat hosted by Northwestern’s MU Collective. We had so much fun connecting that we did it again in 2026, adding in folks from UIC and Argonne, hosted at U Chicago’s Data Science Institute.\nAt the 2026 retreat we recognized the need for more opportunities like this: venues where students, faculty, and researchers can talk about ongoing work and get honest feedback. Venues where we can discuss hard topics, like where the field is, where it’s going, and where it should be going. But also, importantly, venues where we can connect socially to local folks and build longer-lasting collaborations and friendships.\nFor 2027, we’re expanding the topic from visualization to human–data interaction. We hope folks will join us and have fun making new connections and building new collaborations!"
+  },
+  {
+    "objectID": "about.html#history",
+    "href": "about.html#history",
+    "title": "About",
+    "section": "",
+    "text": "The idea for DIV was born from the recognition that Chicagoland is home to a wealth of researchers in human–data interaction and data visualization and that we all benefit from more regular connection across institutions.\nIn 2025 a small gathering of visualization faculty and PhD students from Northwestern, U Chicago, and DePaul held a one-day retreat hosted by Northwestern’s MU Collective. We had so much fun connecting that we did it again in 2026, adding in folks from UIC and Argonne, hosted at U Chicago’s Data Science Institute.\nAt the 2026 retreat we recognized the need for more opportunities like this: venues where students, faculty, and researchers can talk about ongoing work and get honest feedback. Venues where we can discuss hard topics, like where the field is, where it’s going, and where it should be going. But also, importantly, venues where we can connect socially to local folks and build longer-lasting collaborations and friendships.\nFor 2027, we’re expanding the topic from visualization to human–data interaction. We hope folks will join us and have fun making new connections and building new collaborations!"
+  },
+  {
+    "objectID": "about.html#organizers",
+    "href": "about.html#organizers",
+    "title": "About",
+    "section": "Organizers",
+    "text": "Organizers\n\nAlex Kale, University of Chicago (Workshop Chair)\nMatthew Kay, Northwestern University\nSaeed Boorboor, University of Illinois at Chicago\nMichael Papka, Argonne National Laboratory\nVictor Mateevitsi, Argonne National Laboratory\nJoseph Insley, Argonne National Laboratory"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Interaction and Visualization 2027",
@@ -26,26 +47,5 @@
     "title": "Data Interaction and Visualization 2027",
     "section": "Location and schedule",
     "text": "Location and schedule\nDIV 2027 will be hosted at UIC’s [building info TBA] on Jan 4, 2027.\nThe tentative schedule is as follows:\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n8:30\nLight breakfast & social\n\n\n9:15\nIntro and vision building  From the organizers\n\n\n9:30\n“Moonshot” talks  15-minute talk + 10-minute Q&A × 3 speakers  Topics and speakers TBA\n\n\n10:45\nBreak\n\n\n11:00\nLightning talks  1-minute talks advertising posters\n\n\n11:30\nPoster session\n\n\n12:30\nLunch\n\n\n1:30\nPanel  Topic and panelists TBA\n\n\n2:30\nBreak\n\n\n2:45\nUnconference idea selection  Any attendee can propose a topic throughout the day, then all attendees select topics and split into groups by interest.\n\n\n3:00\nUnconference mini-workshops  As selected in the previous session.\n\n\n4:00\nReflections & ideas for next year\n\n\n5:00\nSocial event nearby"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The idea for DIV was born from the recognition that Chicagoland is home to a wealth of researchers in human–data interaction and data visualization and that we all benefit from more regular connection across institutions.\nIn 2025 a small gathering of visualization faculty and PhD students from Northwestern, U Chicago, and DePaul held a one-day retreat hosted by Northwestern’s MU Collective. We had so much fun connecting that we did it again in 2026, adding in folks from UIC and Argonne, hosted at U Chicago’s Data Science Institute.\nAt the 2026 retreat we recognized the need for more opportunities like this: venues where students, faculty, and researchers can talk about ongoing work and get honest feedback. Venues where we can discuss hard topics, like where the field is, where it’s going, and where it should be going. But also, importantly, venues where we can connect socially to local folks and build longer-lasting collaborations and friendships.\nFor 2027, we’re expanding the topic from visualization to human–data interaction. We hope folks will join us and have fun making new connections and building new collaborations!"
-  },
-  {
-    "objectID": "about.html#history",
-    "href": "about.html#history",
-    "title": "About",
-    "section": "",
-    "text": "The idea for DIV was born from the recognition that Chicagoland is home to a wealth of researchers in human–data interaction and data visualization and that we all benefit from more regular connection across institutions.\nIn 2025 a small gathering of visualization faculty and PhD students from Northwestern, U Chicago, and DePaul held a one-day retreat hosted by Northwestern’s MU Collective. We had so much fun connecting that we did it again in 2026, adding in folks from UIC and Argonne, hosted at U Chicago’s Data Science Institute.\nAt the 2026 retreat we recognized the need for more opportunities like this: venues where students, faculty, and researchers can talk about ongoing work and get honest feedback. Venues where we can discuss hard topics, like where the field is, where it’s going, and where it should be going. But also, importantly, venues where we can connect socially to local folks and build longer-lasting collaborations and friendships.\nFor 2027, we’re expanding the topic from visualization to human–data interaction. We hope folks will join us and have fun making new connections and building new collaborations!"
-  },
-  {
-    "objectID": "about.html#organizers",
-    "href": "about.html#organizers",
-    "title": "About",
-    "section": "Organizers",
-    "text": "Organizers\n\nAlex Kale, University of Chicago (Workshop Chair)\nMatthew Kay, Northwestern University\nSaeed Boorboor, University of Illinois at Chicago\nMichael Papka, Argonne National Laboratory\nVictor Mateevitsi, Argonne National Laboratory\nJoseph Insley, Argonne National Laboratory"
   }
 ]
