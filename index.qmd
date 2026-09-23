@@ -6,7 +6,7 @@ subtitle: |
   Jan 4, 2027 at UIC
 ---
 
-DIV 2027 is a symposium for academic and industry researchers in the greater Chicago area working in fields related to human-data interaction and/or the use of data representations to aid processing, understanding, and communicating data. Topics of interest include, but are not limited to:
+DIV 2027 is a symposium for academic and industry researchers in the greater Chicago area working in fields related to human-data interaction. Our focus is the use of data representations such as visualization, language, and statistics to aid processing, understanding, and communicating data. Topics of interest include, but are not limited to:
 
 - Data visualization
 - Data storytelling and communication
@@ -23,7 +23,18 @@ The goal of the workshop is to promote connection and collaboration amongst the 
 
 ## Registration
 
-Registration information is **TBA**.
+In the first year, **registration will be handled by invitation from the organizers**. This is to manange capacity limits of the venue and to create an intentional gathering. We intend to grow in future years. 
+
+We will use *Luma* for registration logistics, which manages invitations, RSVPs, and payments through links sent via email. 
+
+There will be two registration tiers:
+
+| Tier         | Price   |
+|:-------------|:--------|
+| Student      | *[TBD]* |
+| Professional | *[TBD]* |
+
+If you're planning on attending, please watch for emails through Luma. If you or your students would like to attend but have not received an invitation in your inbox, please contact the organizers. 
 
 ## Posters
 
@@ -33,7 +44,7 @@ Registration information is **TBA**.
 
 ### Submission
 
-Submit a poster abstract at **[submission form TBA]** by **[date TBA]**.
+Submit a poster abstract using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3QOOdpCsOQG7msMwVEiVWkohdU2Mk5HLLwnzaN6kzo8bIMQ/viewform?usp=header) by **November 30, 2026**.
 
 Poster information:
 
