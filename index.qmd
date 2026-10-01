@@ -6,7 +6,9 @@ subtitle: |
   Jan 4, 2027 at UIC
 ---
 
-DIV 2027 is a symposium for academic and industry researchers in the greater Chicago area working in fields related to human-data interaction. Our focus is the use of data representations such as visualization, language, and statistics to aid processing, understanding, and communicating data. Topics of interest include, but are not limited to:
+## What is DIV?
+
+**DIV 2027** is a symposium for academic and industry researchers in the greater Chicago area working in fields related to **human--data interaction**. Our focus is the use of data representations such as visualization, language, and statistics to aid processing, understanding, and communicating data. Topics of interest include, but are not limited to:
 
 - Data visualization
 - Data storytelling and communication
@@ -19,17 +21,19 @@ DIV 2027 is a symposium for academic and industry researchers in the greater Chi
 - Interfaces for data exploration and communication
 - Artifical intelligence for data analysis systems
 
-The goal of the workshop is to promote connection and collaboration amongst the local and regional community, and especially to give graduate students and early researchers a venue to build academic networks and get feedback on their work.
+## Why DIV?
+
+The goal of the workshop is to **promote connection and collaboration** amongst the local and regional community, and especially to **give graduate students and early researchers a venue to get feedback on their work** and to build their academic networks.
+
+DIV was born from the recognition that Chicagoland is home to a wealth of researchers in human--data interaction and data visualization and that we all benefit from more regular connection across institutions. In 2025 a small gathering of visualization faculty and PhD students from Northwestern, U Chicago, and DePaul held a one-day retreat hosted by Northwestern's MU Collective. We had so much fun connecting that we did it again in 2026, adding in folks from UIC and Argonne, hosted at U Chicago's Data Science Institute. At that retreat we recognized the need for more opportunities like this: venues where students, faculty, and researchers can talk about ongoing work and get honest feedback. Venues where we can discuss hard topics, like where the field is, where it's going, and where it *should* be going. But also, importantly, venues where we can connect socially to local folks and build longer-lasting collaborations and friendships.
+
+For 2027, we're expanding the topic from visualization to human--data interaction. We hope folks will join us and have fun making new connections and building new collaborations!
 
 ## Registration
 
-In the first year, **registration will be handled by invitation from the organizers**. This is to manange capacity limits of the venue and to create an intentional gathering. 
+In the first year, **registration will be handled by invitation from the organizers**. This is to manage capacity limits of the venue and to create an intentional gathering. We could easily have missed folks, so **if you or your students are interested**, please reach out to one of [the organizers](#organizers)!
 
-**If you or your students are interested and we have not invited you**, please contact us! We are interested in connecting with more researchers in the Chicago area.
-
-We intend to grow in future years. 
-
-We will use *Luma* for registration logistics, which manages invitations, and RSVPs through links sent via email. If you're planning on attending, please watch for emails through Luma. 
+We will use *Luma* for registration logistics, which manages invitations, and RSVPs through links sent via email. If you're planning on attending, please watch for emails through Luma.
 
 ## Posters
 
@@ -70,3 +74,12 @@ The *tentative* schedule is as follows:
 | 3:00 | **Unconference mini-workshops** <br> As selected in the previous session. |
 | 4:00 | **Reflections & ideas for next year** |
 | 5:00 | *Social event nearby* |
+
+## Organizers {#organizers}
+
+- [Alex Kale](https://people.cs.uchicago.edu/~kalea/), University of Chicago (*Workshop Chair*)
+- [Matthew Kay](https://www.mjskay.com/), Northwestern University
+- Saeed Boorboor, University of Illinois at Chicago
+- Michael Papka, Argonne National Laboratory
+- Victor Mateevitsi, Argonne National Laboratory
+- Joseph Insley, Argonne National Laboratory
