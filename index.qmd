@@ -19,22 +19,17 @@ DIV 2027 is a symposium for academic and industry researchers in the greater Chi
 - Interfaces for data exploration and communication
 - Artifical intelligence for data analysis systems
 
-The goal of the workshop is to promote connection and collaboration amongst the local and regional community, and especially to give early researchers (including graduate students) a venue to build academic networks and get feedback on their work.
+The goal of the workshop is to promote connection and collaboration amongst the local and regional community, and especially to give graduate students and early researchers a venue to build academic networks and get feedback on their work.
 
 ## Registration
 
-In the first year, **registration will be handled by invitation from the organizers**. This is to manange capacity limits of the venue and to create an intentional gathering. We intend to grow in future years. 
+In the first year, **registration will be handled by invitation from the organizers**. This is to manange capacity limits of the venue and to create an intentional gathering. 
 
-We will use *Luma* for registration logistics, which manages invitations, RSVPs, and payments through links sent via email. 
+**If you or your students are interested and we have not invited you**, please contact us! We are interested in connecting with more researchers in the Chicago area.
 
-There will be two registration tiers:
+We intend to grow in future years. 
 
-| Tier         | Price   |
-|:-------------|:--------|
-| Student      | *[TBD]* |
-| Professional | *[TBD]* |
-
-If you're planning on attending, please watch for emails through Luma. If you or your students would like to attend but have not received an invitation in your inbox, please contact the organizers. 
+We will use *Luma* for registration logistics, which manages invitations, and RSVPs through links sent via email. If you're planning on attending, please watch for emails through Luma. 
 
 ## Posters
 
