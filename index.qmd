@@ -83,3 +83,4 @@ The *tentative* schedule is as follows:
 - Michael Papka, Argonne National Laboratory
 - Victor Mateevitsi, Argonne National Laboratory
 - Joseph Insley, Argonne National Laboratory
+- Silvio Rizzi, Argonne National Laboratory
