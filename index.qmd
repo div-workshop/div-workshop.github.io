@@ -55,7 +55,7 @@ Poster information:
 
 ## Location and schedule
 
-DIV 2027 will be hosted at UIC's **[building info TBA]** on **Jan 4, 2027**.
+DIV 2027 will be hosted on **Jan 4, 2027** at UIC's new computer science facility, the **Computer Design, Research, and Learning Center (CDRLC)**, 850 W. Taylor Street, Chicago. Sessions will be held in the first-floor auditorium and multipurpose rooms.
 
 The *tentative* schedule is as follows:
 
@@ -79,8 +79,8 @@ The *tentative* schedule is as follows:
 
 - [Alex Kale](https://people.cs.uchicago.edu/~kalea/), University of Chicago (*Workshop Chair*)
 - [Matthew Kay](https://www.mjskay.com/), Northwestern University
-- Saeed Boorboor, University of Illinois at Chicago
-- Michael Papka, Argonne National Laboratory
-- Victor Mateevitsi, Argonne National Laboratory
-- Joseph Insley, Argonne National Laboratory
-- Silvio Rizzi, Argonne National Laboratory
+- [Saeed Boorboor](https://saeedboorboor.github.io), University of Illinois Chicago
+- [Michael Papka](https://mpapka.github.io), Argonne National Laboratory and University of Illinois Chicago
+- [Victor Mateevitsi](https://www.vmateevitsi.com), Argonne National Laboratory and University of Illinois Chicago
+- [Joseph Insley](https://www.alcf.anl.gov/about/people/joseph-insley), Argonne National Laboratory
+- [Silvio Rizzi](https://www.alcf.anl.gov/about/people/silvio-rizzi), Argonne National Laboratory
